@@ -1,0 +1,30 @@
+name: framic_waitlist
+description: A new Flutter project
+publish_to: 'none' # Keep 'none' if you are not publishing to pub.dev
+version: 1.0.0+1 # version number + build number
+
+# Flutter SDK version requirement
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+
+# Dependencies are packages your app needs to run
+dependencies:
+  flutter:
+    sdk: flutter # Flutter framework itself
+  cupertino_icons: ^1.0.8 # iOS-style icons
+  provider: ^6.1.5 # State management package
+
+# Dev dependencies are packages only used during development/testing
+dev_dependencies:
+  flutter_test:
+    sdk: flutter # Flutter testing framework
+  flutter_lints: ^6.0.0 # Recommended lint rules for Flutter
+  mocktail: ^1.0.4 # For mocking objects in tests
+
+# Flutter-specific settings
+flutter:
+  uses-material-design: true # Enables Material icons and widgets
+
+  # Assets like images, fonts, JSON files, etc.
+  assets:
+    - assets/images/ # Folder where you keep your images
