@@ -98,7 +98,7 @@ flutter build web --release
 
 * Compiled files will be in `build/web/`
 * Deploy using GitHub Pages or any web hosting.
-* **Live Demo**: [https://your-username.github.io/your-repo](https://your-username.github.io/your-repo)
+* **Live Demo**: [https://your-username.github.io/your-repo](https://sadman-ichha.github.io/framic/)
 
 #### Android
 
