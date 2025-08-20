@@ -98,7 +98,7 @@ flutter build web --release
 
 * Compiled files will be in `build/web/`
 * Deploy using GitHub Pages or any web hosting.
-* **Live Demo**: [https://your-username.github.io/your-repo](https://sadman-ichha.github.io/framic/)
+* **Live Demo**: [https://sadman-ichha.github.io/framic/](https://sadman-ichha.github.io/framic/)
 
 #### Android
 
@@ -120,7 +120,7 @@ flutter build ios --release
 
 ### Mobile & Webframic
 
-![Mode](assets/screenshots/framic_screen.png)
+![Mode](https://github.com/sadman-ichha/framic_waitlist/blob/7ca595e0bf14e1769854fcb7cedf958d4858ac58/assets/screenshots/framic_screenshot.png)
 
 ## Notes
 
